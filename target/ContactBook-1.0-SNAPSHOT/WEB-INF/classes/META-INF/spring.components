@@ -1,0 +1,5 @@
+com.mycompany.contactbook.controller.ContactController=org.springframework.stereotype.Component
+com.mycompany.contactbook.dao.ContactDAOImplementation=org.springframework.stereotype.Component
+com.mycompany.contactbook.dao.UserDAOImplementation=org.springframework.stereotype.Component
+com.mycompany.contactbook.service.ContactServiceImplementation=org.springframework.stereotype.Component
+com.mycompany.contactbook.service.UserServiceImplementation=org.springframework.stereotype.Component

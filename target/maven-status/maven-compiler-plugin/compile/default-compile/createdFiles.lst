@@ -1,0 +1,17 @@
+com\mycompany\contactbook\service\ContactServiceInterface.class
+com\mycompany\contactbook\dao\ContactDAOImplementation.class
+com\mycompany\contactbook\service\ContactServiceImplementation.class
+META-INF\spring.components
+com\mycompany\contactbook\dao\BaseDAO.class
+com\mycompany\contactbook\controller\ContactController.class
+com\mycompany\contactbook\objectMapper\UserObjectMapper.class
+com\mycompany\contactbook\dao\ContactDAO.class
+com\mycompany\contactbook\objectMapper\ContactObjectMapper.class
+com\mycompany\contactbook\service\UserServiceInterface.class
+com\mycompany\contactbook\dao\UserDAOImplementation.class
+com\mycompany\contactbook\exception\UserNameException.class
+com\mycompany\contactbook\pojo\ContactPojo.class
+com\mycompany\contactbook\dao\UserDAO.class
+com\mycompany\contactbook\service\UserServiceImplementation.class
+com\mycompany\contactbook\util\StringUtil.class
+com\mycompany\contactbook\pojo\UserPojo.class
